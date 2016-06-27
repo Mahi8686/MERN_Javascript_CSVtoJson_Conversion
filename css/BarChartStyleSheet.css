@@ -1,0 +1,25 @@
+.main {
+  background: #f2f2f2;
+  margin: auto;
+  text-align: center;
+  padding-top: 20px;
+}
+
+
+
+svg {
+    background-color:grey;
+
+  }
+
+  .axis path,.axis line {
+      fill:none;
+      stroke: #000;
+      shape-rendering:crishpEdges;   
+  }
+
+
+  .main h2 {
+    padding-bottom: 4px;
+      text-align:center;
+  }
